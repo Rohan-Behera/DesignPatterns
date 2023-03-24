@@ -1,0 +1,15 @@
+D:\VS\PatternAssignment\PatternAssignment\bin\Debug\net6.0\TemplateDesign.exe
+D:\VS\PatternAssignment\PatternAssignment\bin\Debug\net6.0\TemplateDesign.deps.json
+D:\VS\PatternAssignment\PatternAssignment\bin\Debug\net6.0\TemplateDesign.runtimeconfig.json
+D:\VS\PatternAssignment\PatternAssignment\bin\Debug\net6.0\TemplateDesign.dll
+D:\VS\PatternAssignment\PatternAssignment\bin\Debug\net6.0\TemplateDesign.pdb
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\TemplateDesign.csproj.AssemblyReference.cache
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\TemplateDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\TemplateDesign.AssemblyInfoInputs.cache
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\TemplateDesign.AssemblyInfo.cs
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\TemplateDesign.csproj.CoreCompileInputs.cache
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\TemplateDesign.dll
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\refint\TemplateDesign.dll
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\TemplateDesign.pdb
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\TemplateDesign.genruntimeconfig.cache
+D:\VS\PatternAssignment\PatternAssignment\obj\Debug\net6.0\ref\TemplateDesign.dll
